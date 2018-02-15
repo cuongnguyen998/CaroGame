@@ -1,0 +1,9 @@
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+D:\lap trinh\C#\CHUONG TRINH\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
